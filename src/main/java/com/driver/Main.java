@@ -23,7 +23,7 @@ public class Main {
         int ans2 = p.product(2,3,4);
 
         double ans3 = p.product(2.34,1.22);
-
+        //result
         System.out.println("Product of 2 and 3: " + ans1);
         System.out.println("Product of 2, 3 and 4: " + ans2);
         System.out.println("Product of 2.34 and 1.22: " + ans3);
