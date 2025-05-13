@@ -4,6 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class Main {
    static class Product{
+
        public int product(int x, int y) {
            return x * y;
        }
