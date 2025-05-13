@@ -24,7 +24,9 @@ public class Main {
 
         double ans3 = p.product(2.34,1.22);
 
-        System.out.println(ans1+" "+ans2+" "+" "+ans3);
+        System.out.println("Product of 2 and 3: " + ans1);
+        System.out.println("Product of 2, 3 and 4: " + ans2);
+        System.out.println("Product of 2.34 and 1.22: " + ans3);
     }
 
 }
