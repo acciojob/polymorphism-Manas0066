@@ -3,7 +3,7 @@ package com.driver;
 import org.w3c.dom.ls.LSOutput;
 
 public class Main {
-
+    //changed ti public
     public static class Product{
 
        public int product(int x, int y) {
